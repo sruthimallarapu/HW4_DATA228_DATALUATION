@@ -1,0 +1,2 @@
+# HW4_DATA228_DATALUATION
+MultiRegion Serverless Application
